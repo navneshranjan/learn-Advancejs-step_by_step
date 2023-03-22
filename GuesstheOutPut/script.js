@@ -38,3 +38,4 @@ console.log(x[y]);
     var x = 21;
   })();
 })();
+console.log("testing");
